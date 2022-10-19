@@ -4,8 +4,8 @@ times = [
             "idade": int(input("Idade: ")),
             "peso": float(input("Peso: ")),
             "altura": float(input("Altura: "))
-        } for jogador in range(11)
-    ] for time in range(5)
+        } for jogador in range(2)
+    ] for time in range(2)
 ]
 
 menosDe18 = 0
